@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi,👋
 
-**edwinonyango9286/edwinonyango9286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About Me
+I am a skilled SDET (software development engineer in test) with solid experience in designing, developing, testing and deploying web applications. I am proficient in a range of programming languages and frameworks, including JavaScript, Java, Typescript, C, SQL and NoSQL databases. Proficient in MongoDB, MySQL, SQL Server, Express.js, React, Next.js and Node.js, Bootstrap, Tailwind CSS, Ant Design and Material UI for developing and designing responsive software solutions. Passionate about creating efficient and user-friendly solutions. Adept at collaborating with cross-functional teams to deliver   high-quality and innovative and user-friendly solutions that drive business success. I have a proven ability to adapt quickly to new technologies and methodologies, ensuring continuous improvement and operational excellence.  
 
 - 🔭 I’m currently working on **Java Spring boot Kodi House Project APIs.**
 - 🌱 I’m currently learning **Developing Node APIS with Fastify.**
